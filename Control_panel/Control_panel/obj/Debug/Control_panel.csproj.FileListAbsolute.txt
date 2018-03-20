@@ -1,0 +1,37 @@
+c:\users\mateusz\documents\visual studio 2015\Projects\Control_panel\Control_panel\bin\Debug\Control_panel.exe.config
+c:\users\mateusz\documents\visual studio 2015\Projects\Control_panel\Control_panel\bin\Debug\Control_panel.exe
+c:\users\mateusz\documents\visual studio 2015\Projects\Control_panel\Control_panel\bin\Debug\Control_panel.pdb
+c:\users\mateusz\documents\visual studio 2015\Projects\Control_panel\Control_panel\obj\Debug\Control_panel.csprojResolveAssemblyReference.cache
+c:\users\mateusz\documents\visual studio 2015\Projects\Control_panel\Control_panel\obj\Debug\Control_panel.Properties.Resources.resources
+c:\users\mateusz\documents\visual studio 2015\Projects\Control_panel\Control_panel\obj\Debug\Control_panel.csproj.GenerateResource.Cache
+c:\users\mateusz\documents\visual studio 2015\Projects\Control_panel\Control_panel\obj\Debug\Control_panel.exe
+c:\users\mateusz\documents\visual studio 2015\Projects\Control_panel\Control_panel\obj\Debug\Control_panel.pdb
+c:\users\mateusz\documents\visual studio 2015\Projects\Control_panel\Control_panel\obj\Debug\Control_panel.Form1.resources
+C:\Users\Mateusz\Desktop\Projects\Control_panel\Control_panel\bin\Debug\Control_panel.exe.config
+C:\Users\Mateusz\Desktop\Projects\Control_panel\Control_panel\obj\Debug\Control_panel.exe
+C:\Users\Mateusz\Desktop\Projects\Control_panel\Control_panel\obj\Debug\Control_panel.pdb
+C:\Users\Kokosowy\Desktop\Projects\Control_panel\Control_panel\bin\Debug\Control_panel.exe.config
+C:\Users\Kokosowy\Desktop\Projects\Control_panel\Control_panel\obj\Debug\Control_panel.exe
+C:\Users\Kokosowy\Desktop\Projects\Control_panel\Control_panel\obj\Debug\Control_panel.pdb
+C:\Users\Kokosowy\Desktop\Projects\Control_panel\Control_panel\bin\Debug\Control_panel.exe
+C:\Users\Kokosowy\Desktop\Projects\Control_panel\Control_panel\bin\Debug\Control_panel.pdb
+C:\Users\Kokosowy\Desktop\Projects\Control_panel\Control_panel\obj\Debug\Control_panel.csprojResolveAssemblyReference.cache
+C:\Users\Kokosowy\Desktop\Projects\Control_panel\Control_panel\obj\Debug\Control_panel.Form1.resources
+C:\Users\Kokosowy\Desktop\Projects\Control_panel\Control_panel\obj\Debug\Control_panel.Properties.Resources.resources
+C:\Users\Kokosowy\Desktop\Projects\Control_panel\Control_panel\obj\Debug\Control_panel.csproj.GenerateResource.Cache
+C:\Users\Mateusz\Dropbox\Projects\Control_panel\Control_panel\bin\Debug\Control_panel.exe.config
+C:\Users\Mateusz\Dropbox\Projects\Control_panel\Control_panel\obj\Debug\Control_panel.exe
+C:\Users\Mateusz\Dropbox\Projects\Control_panel\Control_panel\obj\Debug\Control_panel.pdb
+C:\Users\Mateusz\Dropbox\Projects\Control_panel\Control_panel\bin\Debug\Control_panel.exe
+C:\Users\Mateusz\Dropbox\Projects\Control_panel\Control_panel\bin\Debug\Control_panel.pdb
+C:\Users\Mateusz\Dropbox\Projects\Control_panel\Control_panel\bin\Debug\mscorlib.dll
+C:\Users\Mateusz\Dropbox\Projects\Control_panel\Control_panel\bin\Debug\pl\mscorlib.resources.dll
+C:\Users\Mateusz\Dropbox\Projects\Control_panel\Control_panel\bin\Debug\normidna.nlp
+C:\Users\Mateusz\Dropbox\Projects\Control_panel\Control_panel\bin\Debug\normnfc.nlp
+C:\Users\Mateusz\Dropbox\Projects\Control_panel\Control_panel\bin\Debug\normnfd.nlp
+C:\Users\Mateusz\Dropbox\Projects\Control_panel\Control_panel\bin\Debug\normnfkc.nlp
+C:\Users\Mateusz\Dropbox\Projects\Control_panel\Control_panel\bin\Debug\normnfkd.nlp
+C:\Users\Mateusz\Dropbox\Projects\Control_panel\Control_panel\obj\Debug\Control_panel.csprojResolveAssemblyReference.cache
+C:\Users\Mateusz\Dropbox\Projects\Control_panel\Control_panel\obj\Debug\Control_panel.Form1.resources
+C:\Users\Mateusz\Dropbox\Projects\Control_panel\Control_panel\obj\Debug\Control_panel.Properties.Resources.resources
+C:\Users\Mateusz\Dropbox\Projects\Control_panel\Control_panel\obj\Debug\Control_panel.csproj.GenerateResource.Cache
